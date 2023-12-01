@@ -13,9 +13,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         {children}
-        <footer>
+        {/* <footer>
           Copyright ©️ 2023 All My DNA, LLC - All Rights Reserved.
-        </footer>
+        </footer> */}
       </body>
     </html>
   );
