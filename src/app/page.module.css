@@ -227,3 +227,6 @@
     transform: rotate(0deg);
   }
 }
+main > p {
+  color: #fff;
+}
