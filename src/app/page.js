@@ -15,7 +15,7 @@ export default function Home() {
         height={50}
         layout="responsive"
       />
-      <p> Copyright ©️ 2023 All My DNA, LLC - All Rights Reserved.</p>
+      <p> Copyright &copy; {new Date().getFullYear()} All My DNA, LLC - All Rights Reserved.</p>
     </main>
   );
 }
