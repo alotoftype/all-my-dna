@@ -7,7 +7,7 @@ export default function Home() {
       <Image
         srcSet={
           "/mobile_lockup@2x.jpg 640w, " + // for screens up to 640px wide
-          "/Artboard@2x.jpg 1920w" // for screens wider than 640px
+          "/Artboard@1x.jpg 1920w" // for screens wider than 640px
         }
         src="/Artboard@2x.jpg" // default src, for browsers that don't support srcSet
         alt="All My DNA"
