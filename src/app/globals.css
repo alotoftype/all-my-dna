@@ -101,6 +101,10 @@ a {
   }
 }
 
+main > p {
+  color: #fff;
+}
+
 footer {
   text-align: center;
 }
